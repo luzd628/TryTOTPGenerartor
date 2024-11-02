@@ -19,9 +19,6 @@ class MainActivity : AppCompatActivity() {
         inputValues()
     }
 
-    // key
-    //EREPPCIQKV2FVHOOIZVZWTMMN2T7ANWJ
-
     private fun inputValues(){
 
         binding.btnSimpan.setOnClickListener {
